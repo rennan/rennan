@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Orquestra 2.0**, a Design System of BTG Pactual Bank.
 
+- 💬 Ask me about **AngularJS, Angular**
 
 - 📫 How to reach me: **martini.rennan@gmail.com**
 
