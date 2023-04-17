@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">I'm Rennan, a Senior Frontend Developer. 🚀</h1>
+<h1 align="center">I'm Rennan, a Senior Front-end Developer. 🚀</h1>
 
 - 🔭 I’m currently working on **Orquestra 2.0**, a Design System of BTG Pactual Bank.
 
