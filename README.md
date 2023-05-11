@@ -1,31 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Rennan Rodrigues, a Frontend Developer. 🚀 </h1>
 
-<!--
-**rennan/rennan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">I'm Rennan, a Senior Front-end Developer. 🚀</h1>
-
-- 🔭 I’m currently working on **Orquestra 2.0**, a Design System of BTG Pactual Bank.
-
+- 🔭 I’m currently working on **Orquestra 2.0**, a Design System from [BTG Pactual Bank](https://www.btgpactual.com/).
 - 💬 Ask me about **AngularJS, Angular**
+- 📫 How to reach me **rennan.rodrigues@btgpactual.com**
 
-- 📫 How to reach me: **martini.rennan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Languages and Tools:</h4> 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rennanmartini/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="linkedin logo" height="30" width="40" />
-  </a>
+<img align="left" title="HTML5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" height="30" width="40" />
+<img align="left" title="CSS3" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" height="30" width="40" />
+<img align="left" title="JavaScript" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" height="30" width="40" />
+<img align="left" title="TypeScript" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/typescript.svg" height="30" width="40" />
+<img align="left" title="Sass" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/sass.svg" height="30" width="40" />
+<img align="left" title="Angular" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/angularjs.svg" height="30" width="40" />
+<img align="left" title="Karma" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Testing/karma.svg" height="30" width="40" />
+</p>
+
+<br /><br />
+
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://www.linkedin.com/in/rennanmartini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilot" height="30" width="40" /></a>
 </p>
